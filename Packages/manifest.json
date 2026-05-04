@@ -46,5 +46,6 @@
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
     "jp.hadashikick.vcontainer": "https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer#1.16.5",
+    "com.annulusgames.unityroom-api": "https://github.com/AnnulusGames/unityroom-api.git?path=Assets/Unityroom"
   }
 }

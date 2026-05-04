@@ -1,9 +1,14 @@
 [Ll]ibrary/
 [Tt]emp/
+[Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
+MemoryCaptures/
+Assets/AudioManager-master/
+Assets/.DS_Store
+.DS_Store
 
 *.csproj
 *.unityproj

@@ -9,4 +9,4 @@ URA FLIP
 悪いアイテムでゲームオーバー
 一定時間ごとに上下のルールが反転
 
-<img width="800" height="450" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/feb99757-01fe-4d02-b382-a15b20c3b002" />
+<img width="800" height="450" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9d3a9dda-2969-411c-bb49-53d626319fa3" />
